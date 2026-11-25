@@ -33,7 +33,7 @@ datang, dan catatan sebenarnya tetap tersembunyi di logbook.
 ## Repo & commit
 
 - Repo publik dibuat + push: https://github.com/rismzz/u-email-baru-my-secret-logbook-cc177449
-- Commit SHA final: `d0c8824683a64415601fbf9c4e425a5224864be9` (branch main,
+- Commit SHA final: `ce3797b694e1313ea53ce8342add882cbe502f43` (branch main, 2 commits,
   1 commit). Repo dibuat 2026-11-25T19:27:11Z — setelah kompetisi dibuka
   (2026-11-25T19:04:37Z). Terverifikasi lewat GitHub API: publik, berisi
   `.makefun/owner.json`, `LICENSE`, `README.md`, `main.py`.
